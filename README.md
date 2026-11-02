@@ -26,3 +26,5 @@ On a phone or tablet: swipe left/right.
 | 4 | Yevhen | 9–12 |
 
 Photos: Wikimedia Commons, see [credits.html](credits.html).
+
+Sprechtext für alle (PDF): [sprechtext.pdf](sprechtext.pdf)
