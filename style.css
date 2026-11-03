@@ -131,7 +131,8 @@ ul.list li::before { content: ""; position: absolute; left: 4px; top: .55em; wid
 .timeline .stop { position: absolute; top: 6px; width: 28px; height: 28px; margin-left: -14px; border-radius: 50%; background: var(--cream-2); border: 4px solid var(--w); }
 .timeline .traveller { position: absolute; top: -2px; left: 0; margin-left: -22px; width: 44px; height: 44px; border-radius: 50%; background: var(--w); color: #fff; display: grid; place-items: center; font-size: 22px; transition: left 2.2s cubic-bezier(.4,0,.2,1) .9s; box-shadow: 0 0 0 8px rgba(224,122,31,.2); }
 .slide.active .timeline .traveller { left: 100%; }
-.route .card .photo { height: 250px; }
+.route .card .photo { height: 230px; }
+.days { display: inline-block; vertical-align: middle; margin-left: 12px; padding: 4px 16px; border-radius: 999px; background: var(--w); color: #fff; font-family: var(--sans, "DM Sans", sans-serif); font-size: 24px; font-weight: 700; letter-spacing: .5px; }
 
 /* food */
 .food .card .photo { height: 360px; }
