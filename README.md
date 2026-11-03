@@ -20,10 +20,10 @@ On a phone or tablet: swipe left/right.
 
 | Teil | Person | Folien |
 |---|---|---|
-| 1 | Waheedullah | 1–4 |
-| 2 | Etaf | 5–6 |
-| 3 | Danylo | 7–8 |
-| 4 | Yevhen | 9–12 |
+| 1 | Waheedullah | 1–6 |
+| 2 | Etaf | 7–8 |
+| 3 | Danylo | 9–10 |
+| 4 | Yevhen | 11–14 |
 
 Photos: Wikimedia Commons, see [credits.html](credits.html).
 
